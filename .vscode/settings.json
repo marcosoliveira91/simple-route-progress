@@ -1,0 +1,7 @@
+{
+    "css.lint.unknownAtRules": "ignore",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.formatOnSave": true,
+    "eslint.run": "onSave",
+    "typescript.suggest.autoImports": true,
+}
