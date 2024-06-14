@@ -8,19 +8,19 @@ import { NextResponse, NextRequest } from 'next/server';
  */
 export const GET = async (): Promise<NextResponse> => {
     const mockResponse = {
-        "routeName": "To the dunes and back",
+        "routeName": "Road to Macondo",
         "myPosition": 0.2,
         "peopleOnRoute": [
             {
-                "name": "Lex",
+                "name": "Arcadio",
                 "position": 0.4
             },
             {
-                "name": "Frikkie",
+                "name": "Úrsula",
                 "position": 0.25
             },
             {
-                "name": "Ronald",
+                "name": "Aureliano",
                 "position": 0.75
             }
         ]
