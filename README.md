@@ -26,21 +26,21 @@ The API endpoint returns mock data for positions on a fictional route, including
 
 ```json
 {
-        "routeName": "Road to Macondo",
-        "myPosition": 0.2,
-        "peopleOnRoute": [
-            {
-                "name": "Arcadio",
-                "position": 0.4
-            },
-            {
-                "name": "Úrsula",
-                "position": 0.25
-            },
-            {
-                "name": "Aureliano",
-                "position": 0.75
-            }
-        ]
-    };
+    "routeName": "Road to Macondo",
+    "myPosition": 0.2,
+    "peopleOnRoute": [
+        {
+            "name": "Arcadio",
+            "position": 0.4
+        },
+        {
+            "name": "Úrsula",
+            "position": 0.25
+        },
+        {
+            "name": "Aureliano",
+            "position": 0.75
+        }
+    ]
+}
 ```
